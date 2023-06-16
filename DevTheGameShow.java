@@ -191,22 +191,14 @@ public class DevTheShowGame {
       Pergunta perg10 = new Pergunta("Qual é o indice inicial de uma matriz?",
               "1)Voce pode comecar com qualquer indice. , 2)0 , 3)Isso depende do tipo da matriz. ");
       
-      Pergunta perg11 = new Pergunta("Em uma expressao boolian que usa o operador &&,"
-              + " o que faria com que essa expressao gerasse um resultado verdadeiro?",
-              "1)Se tanto a primeira quanto a segunda condicoes forem falsas ,"
-                      + " 2)Se a primeira condicao for falsa, mas a segunda for verdadeira ,"
-                      + " 3)Se tanto a primeira quanto a segunda condicoes forem verdadeiras ");
+      Pergunta perg11 = new Pergunta("Um dobro com o tipo 20,5 eh convertido em int.Qual?",
+              "1)22, 2)21, 3)20");
       
-      Pergunta perg12 = new Pergunta("Qual dos cenarios a seguir seria ideal para escrever um metodo?",
-              "1)Quando voce nao quer encontrar linhas de codigo semelhantes para descrever o comportamento de um objeto."
-                      + " , 2)Quando você não quer repetir linhas de código semelhantes para descrever o"
-                      + " comportamento de um objeto. ,"
-                      + " 3)Para agrupar tipos de dados semelhantes. ");
+      Pergunta perg12 = new Pergunta("De que forma a classe Scanner aceita entrada?",
+              "1)int 2)Tokens 3)future");
       
-      Pergunta perg13 = new Pergunta("O que é uma matriz?",
-              "1)) Uma matriz é um recipiente indexado que contém um conjunto de valores de um único tipo. ,"
-                      + " 2)Uma matriz é um recipiente indexado que contém um conjunto de valores de vários tipos. ,"
-                      + " 3)Uma matriz é uma maneira de criar várias cópias de um único valor. ");
+      Pergunta perg13 = new Pergunta("Qual a declaracao correta para um tipo de dados char?",
+              "1)char size = 'M'  2)char size = 'Medio',3)char size = 0 ");
       
       Pergunta perg14 = new Pergunta("O que eh um objeto?", "1)a representação (instância) de uma classe ,"
               + " 2)uma forma solida , 3)um metodo ");
